@@ -118,6 +118,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 #### 源码链接 [vue项目实现表单登录页保存账号和密码到cookie功能](https://github.com/mgbq/vue-cookie-demo)
 #### 觉得对你有帮助的话，star下哦。
+明文的记住密码
+
 
 
 
